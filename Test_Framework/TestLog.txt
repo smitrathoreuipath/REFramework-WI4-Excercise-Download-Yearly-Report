@@ -98,3 +98,39 @@ Starting new set of tests at 06:49:20  PM, 30/05/2017
 06:51:00 PM	Test 19 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
 ================================
 06:51:00	Summary: 19/19 Tests Passed. Total execution time: 100 seconds
+
+=================================================
+Starting new set of 19 tests at 10:33:22  PM, 13/02/2020
+=================================================
+10:33:23 PM	Test 1 PASS  ---> Framework\InitAllSettings.xaml
+10:33:24 PM	Test 2 FAIL  ---> Framework\InitAllApplications.xaml ---> Success
+10:33:25 PM	Test 3 PASS  ---> Framework\CloseAllApplications.xaml
+10:33:55 PM	Test 4 PASS  ---> Framework\CloseAllApplications.xaml
+10:33:56 PM	Test 5 PASS  ---> Framework\InitAllSettings.xaml
+10:33:56 PM	Test 6 PASS  ---> Framework\InitAllSettings.xaml
+10:33:56 PM	Test 7 FAIL  ---> Framework\InitAllApplications.xaml ---> Success
+10:33:56 PM	Test 8 FAIL  ---> Test_Framework\Test_ProcessTransaction.xaml ---> Success
+10:33:56 PM	Test 9 FAIL  ---> Test_Framework\Test_ProcessTransaction.xaml ---> Success
+10:33:56 PM	Test 10 FAIL  ---> Test_Framework\Test_ProcessTransaction.xaml ---> Success
+10:33:56 PM	Test 11 FAIL  ---> Test_Framework\Test_ProcessTransaction.xaml ---> Success
+10:33:56 PM	Test 12 FAIL  ---> Test_Framework\Test_ProcessTransaction.xaml ---> Success
+10:33:56 PM	Test 13 FAIL  ---> Test_Framework\Test_ProcessTransaction.xaml ---> Success
+10:33:56 PM	Test 14 FAIL  ---> Test_Framework\Test_ProcessTransaction.xaml ---> Success
+10:33:56 PM	Test 15 FAIL  ---> Test_Framework\Test_ProcessTransaction.xaml ---> Success
+10:33:56 PM	Test 16 FAIL  ---> Test_Framework\Test_ProcessTransaction.xaml ---> Success
+10:34:26 PM	Test 17 FAIL  ---> Framework\CloseAllApplications.xaml ---> Success
+10:34:26 PM	Test 18 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+10:34:26 PM	Test 19 PASS  ---> Test_Framework\Test_ProcessTransaction.xaml
+================================
+10:34:27	Summary: 7/19 Tests Passed. Total execution time: 70 seconds
+
+=================================================
+Starting new set of 19 tests at 10:43:07  PM, 13/02/2020
+=================================================
+10:43:25 PM	Test 1 PASS  ---> Framework\InitAllSettings.xaml
+10:43:56 PM	Test 2 FAIL  ---> Framework\InitAllApplications.xaml ---> Success
+10:46:25 PM	Test 3 FAIL  ---> Framework\CloseAllApplications.xaml ---> Success
+
+=================================================
+Starting new set of 19 tests at 10:47:24  PM, 13/02/2020
+=================================================
